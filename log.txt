@@ -4,10 +4,14 @@ Start: Tue, 03 Feb 2015 17:30:00 +0000
 End: Tue, 03 Feb 2015 17:30:00 +0000
 Task: Initial commit
 
-Start: Wed, 04 Feb 09:30:00 +0000
-End: Wed, 04 Feb 11:04:56 +0000
+Start: Wed, 04 Feb 2015 09:30:00 +0000
+End: Wed, 04 Feb 2015 11:04:56 +0000
 Task: Completed multtable.php
 
-Start: Wed, 04 Feb 11:04:56 +0000
-End: 
+Start: Wed, 04 Feb 2015 11:04:56 +0000
+End: Wed 04 Feb 2015 12:04:59 +0000
 Task: Completed loopback.php
+
+Start: Wed, 04 Feb 2015 13:30:00 +0000
+End: Wed 04 Feb 2015 16:02:59 +0000
+Task: Completed login.php, content1.php, content2.php
