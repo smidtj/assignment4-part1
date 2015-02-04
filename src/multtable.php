@@ -7,8 +7,6 @@
 <header>multtable</header>
 <body>
 <?php
-error_reporting(E_ALL);
-ini_set('display_errors',1);
 
 $minMultiplicand = $_GET['min-multiplicand'];
 $maxMultiplicand = $_GET['max-multiplicand'];
@@ -73,4 +71,3 @@ echo '</table>';
 echo '</body>';
 echo '</html>';
 ?>
-</body>
