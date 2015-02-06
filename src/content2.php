@@ -15,6 +15,4 @@ if((isset($_POST['username']) && $_POST['username'] == null) && !isset($_SESSION
 	echo '<p>Click <a href="http://web.engr.oregonstate.edu/~smidtj/content1.php">here</a> to go back to content1.';
 }
 
-echo '</body>';
-echo '</html>';
 ?>

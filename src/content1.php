@@ -25,6 +25,4 @@ if((isset($_POST['username']) && $_POST['username'] == null) && !isset($_SESSION
 	echo '<p>Click <a href="http://web.engr.oregonstate.edu/~smidtj/login.php?logout=true">here</a> to logout.';
 }
 
-echo '</body>';
-echo '</html>';
 ?>

@@ -15,3 +15,7 @@ Task: Completed loopback.php
 Start: Wed, 04 Feb 2015 13:30:00 +0000
 End: Wed 04 Feb 2015 16:02:59 +0000
 Task: Completed login.php, content1.php, content2.php
+
+Start: Wed, 06 Feb 2015 16:00:00 +0000
+End: Wed 06 Feb 2015 16:36:00 +0000
+Task: Final testing of all pages, a few fixes, and final commit

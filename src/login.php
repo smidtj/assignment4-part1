@@ -1,7 +1,7 @@
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors',1);
-header('Content-Type: text/html');
+//header('Content-Type: text/plain');
 
 session_start();
 if(isset($_GET['logout'])){
@@ -10,6 +10,4 @@ if(isset($_GET['logout'])){
 }
 echo '<form method="post" action="http://web.engr.oregonstate.edu/~smidtj/content1.php">Username<br><input type="text" name="username"><input type="submit" value="Login">';
 
-echo '</body>';
-echo '</html>';
 ?>
